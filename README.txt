@@ -1,0 +1,1 @@
+My aim in this project os to teach myself how to use class based views, types grasp the three types of  relationships.
